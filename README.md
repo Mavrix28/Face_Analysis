@@ -5,14 +5,14 @@ The system can perform various tasks such as emotion recognition, age and gender
 
 Features
 
-•	Detect faces in real-time from images .
-•	Recognize emotions like happiness, sadness, anger, and surprise.
-•	Predict age and gender of detected faces.
-•	Highly scalable and customizable for different datasets and applications.
+     • Detect faces in real-time from images .
+     •	Recognize emotions like happiness, sadness, anger, and surprise.
+     •	Predict age and gender of detected faces.
+     •	Highly scalable and customizable for different datasets and applications.
 
 
 Contact
 
 If you have any questions or suggestions, feel free to reach out:
-	•	Author: Mavrix28
-	•	Email: ___
+	      •	Author: Mavrix28
+	      •	Email: ___
